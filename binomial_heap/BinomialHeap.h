@@ -1,6 +1,6 @@
 //
 // Created by Rui Xia on 10/15/16.
-//
+//to be continued
 
 #ifndef BASIC_DS_BINOMIALHEAP_H
 #define BASIC_DS_BINOMIALHEAP_H
@@ -187,7 +187,7 @@ namespace detail{
     }
 }
 
-template <typedef T>
+template <typename T>
 BinomialHeap<T>::BinomialHeap() {
     mSize = 0;
 }
